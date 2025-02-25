@@ -1,4 +1,4 @@
-## Chapter 9 – APT ##
+## Chapter 9 – APT 
 
 Queries are done using the apt-cache or apt-file utilities. You may have to install apt-file first, and update its database, as in:
 
