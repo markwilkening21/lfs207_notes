@@ -4,3 +4,5 @@
 - [Chapter 10: RPM](ch10_rpm.md)
 - [Chapter 11: dnf and yum](ch11_dnf.md)
 - [Chapter 12: Zypper](ch12_zypper.md)
+- [Chapter 13: git](ch13_git.md)
+- [Chapter 14: Processes](ch14_processes.md)
